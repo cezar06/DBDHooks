@@ -99,7 +99,7 @@ namespace DBDHooks
 
                 if (ImageContains(screenCapture, targetImage))
                 {
-                    MessageBox.Show("Target image detected!");
+                    MessageBox.Show("Target image detected");
                 }
             }
         }
